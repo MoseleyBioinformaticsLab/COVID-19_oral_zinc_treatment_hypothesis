@@ -27,18 +27,21 @@
 
 ## Rationale For and Evidence Supporting the Hypothesis (Scientific Premise) <a name="rationale"></a>
 **There are five major pieces of evidence that form the basis for this hypothesis:**
-1. Micromolar levels of intracellular zinc inhibits the RNA-dependent RNA polymerase machinery of nidoviruses, which includes coronaviruses ([Te Velthuis et al., 2010](https://dx.doi.org/10.1371%2Fjournal.ppat.1001176)).
-    * Specifically, this paper demonstrates inhibition of RNA synthesis from the RNA-dependent RNA polymerase machinery in SARS-CoV infected Vero-E6 cells with 2 micromolar Zn2+ (from zinc acetate) and pyrithione, a zinc-ionophore. The estimated CC50 (toxicity) is 82 micromolar pyrithione with 2 micromolar Zn2+ in Vero-E6 cells, and estimated IC50 (inhibition) is 1.4 micromolar pyrithione with 2 micromolar Zn2+. In contrast, the IC50 is 0.5 micromolar pyrithione with 2 micromolar Zn2+ for the equine arteritis virus.
+1. Micromolar levels of intracellular zinc inhibits the RNA-dependent RNA polymerase machinery of nidoviruses, which includes coronaviruses.
+    * Specifically, ([Te Velthuis et al., 2010](https://dx.doi.org/10.1371%2Fjournal.ppat.1001176)) demonstrate inhibition of RNA synthesis from the RNA-dependent RNA polymerase machinery in SARS-CoV infected Vero-E6 cells with 2 micromolar Zn2+ (from zinc acetate) and pyrithione, a zinc-ionophore. The estimated CC50 (toxicity) is 82 micromolar pyrithione with 2 micromolar Zn2+ in Vero-E6 cells, and estimated IC50 (inhibition) is 1.4 micromolar pyrithione with 2 micromolar Zn2+. In contrast, the IC50 is 0.5 micromolar pyrithione with 2 micromolar Zn2+ for the equine arteritis virus.
     * SARS-CoV-2 has an [RNA-dependent RNA polymerase](https://www.ncbi.nlm.nih.gov/protein/QHD43415/). A BLAST search results in the following matches:
          * QHR63299.1 - orf1ab polyprotein [Bat coronavirus RaTG13] 100% coverage 98.55% identity
          * ACZ71930.1 - orf1ab polyprotein [SARS coronavirus wtic-MB] 100% coverage 86.09% identity
          * NP_127506.1 - replicase ORF1ab polyprotein [Equine arteritis virus] 10% coverage 25.00% identity (14% coverage and 24.86% identity with ACZ71930.1)
      * SARS-CoV has 86.09% identity with SARS-CoV-2 as opposed to 24.86% identity (and a much lower coverage) with EAV.  
-2. Zinc is absorbed by oral mucosa cells.  [Kapadia et al., 2018](https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A30602641) demonstrated the absorption of zinc by buccal mucosa cells from orthodontic appliances.
+2. Zinc is absorbed by oral mucosa cells.  
+    * [Kapadia et al., 2018](https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A30602641) demonstrated the absorption of zinc by buccal mucosa cells from orthodontic appliances.
 3. Efficacy of zinc lozenges for treating common colds is supported by a meta-analysis of prior zinc lozenge studies.
      * A meta-analysis ([Hemilä, H. et al. 2017](https://doi.org/10.1177%2F2054270417694291)) has previously determined that consuming zinc lozenges with a concentration greater than 80 mg zinc / day reduces the common cold duration on average by 33%. A daily dosage up to 150 mg per day has few adverse effects. The lozenges containing zinc gluconate and zinc acetate demonstrated efficacy.
-4. SARS-CoV-2 enters cells via the ACE2 and TMPRSS2 receptors ([Hoffman M., et al., 2020](https://doi.org/10.1101/2020.01.31.929042), [Xu X., et al., 2020](https://doi.org/10.1007/s11427-020-1637-5)).
-5. Oral mucosa expresses ACE2, a major viral receptor of SARS-CoV-2. Xu and coworkers used TCGA and FANTOM5 CAGE gene expression analysis to show this ([Xu X., et al., 2020](https://doi.org/10.1038/s41368-020-0074-x)). However, a simple search of the human protein atlas (HPA) for ACE2 expression corroborates this ([link](https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue)). In addition, HPA shows the highest expression of TMPRSS2 gene and protein expression in the gastrointestinal tract ([link](https://www.proteinatlas.org/ENSG00000184012-TMPRSS2/tissue)).
+4. SARS-CoV-2 enters cells via the ACE2 and TMPRSS2 receptors.
+    * [Hoffman M., et al., 2020](https://doi.org/10.1101/2020.01.31.929042) and [Xu X., et al., 2020](https://doi.org/10.1007/s11427-020-1637-5) have both shown this.
+5. Oral mucosa expresses ACE2, a major viral receptor of SARS-CoV-2. 
+    * Xu and coworkers used TCGA and FANTOM5 CAGE gene expression analysis to show this ([Xu X., et al., 2020](https://doi.org/10.1038/s41368-020-0074-x)). However, a simple search of the human protein atlas (HPA) for ACE2 expression corroborates this ([link](https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue)). In addition, HPA shows the highest expression of TMPRSS2 gene and protein expression in the gastrointestinal tract ([link](https://www.proteinatlas.org/ENSG00000184012-TMPRSS2/tissue)).
 
 ## Potential Implications <a name="implications"></a>
 1. Oral mucosa is a primary site of infection for SARS-CoV-2 and the lung is a secondary site of infection.
@@ -53,21 +56,12 @@
 
 ## Other Considerations <a name="considerations"></a>
 1. Direct treatment of the lungs with zinc is likely toxic and is ill-adviced.
-   * Jiang, X., Tang, Q., Zhang, J., Wang, H., Bai, L., Meng, P., Qin, X., Xu, G., Bose, D.D., Wang, B. and Chen, C., Autophagy-dependent release of zinc ions is critical for acute lung injury triggered by zinc oxide nanoparticles. Nanotoxicology, 12(9), pp.1068-1091 (2018).
-      * https://doi.org/10.1080/17435390.2018.1513094
-      * This paper shows that zinc oxide nanoparticles likely causes acute lung injury in a mouse model.
+    * [Jiang et al., 2018](https://doi.org/10.1080/17435390.2018.1513094) shows that zinc oxide nanoparticles likely causes acute lung injury in a mouse model.
 2. Other factors affect oral zinc absorption.
-   * Hemilä, H., Zinc lozenges and the common cold: a meta-analysis comparing zinc acetate and zinc gluconate, and the role of zinc dosage. JRSM open, 8(5), p.2054270417694291 (2017).
-      * https://doi.org/10.1177%2F2054270417694291
-      * Problem additives that likely lower efficacy include: citric acid, tartaric acid, sodium bicarbonate, palm-kernel oil, cotton-seed oil, and soy lecithin, mannitol, and sorbitol.
-   * Henderson LM, Brewer GJ, Dressman JB, Swidan SZ, DuRoss DJ, Adair CH, Barnett JL, Berardi RR. Effect of intragastric pH on the absorption of oral zinc acetate and zinc oxide in young healthy volunteers. Journal of Parenteral and Enteral Nutrition. Sep;19(5):393-7 (1995).
-      * https://deepblue.lib.umich.edu/bitstream/handle/2027.42/142255/jpen0393.pdf?sequence=1
-      * pH may affect oral zinc absorption like it was demonstrated in the gastrointestinal tract.
+    * [Hemilä et al., 2017](https://doi.org/10.1177%2F2054270417694291) note that there are some additives that likely lower efficacy include: citric acid, tartaric acid, sodium bicarbonate, palm-kernel oil, cotton-seed oil, and soy lecithin, mannitol, and sorbitol.
+    * [Henderson et al., 1995](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/142255/jpen0393.pdf?sequence=1) show that pH may affect oral zinc absorption like it was demonstrated in the gastrointestinal tract.
 3. It is unknown what zinc transporters are present in the oral mucosa.
-   * Could not find a published peer-reviewed paper on the likely presence of specific zinc transporters in the oral mucosa.
-   * Nishito Y, Kambe T. Absorption mechanisms of iron, copper, and zinc: an overview. Journal of nutritional science and vitaminology. 64(1):1-7 (2018).
-      * https://www.jstage.jst.go.jp/article/jnsv/64/1/64_1/_pdf
-      * Useful review on zinc absorption mechanisms.
+   * We could not find a published peer-reviewed paper on the likely presence of specific zinc transporters in the oral mucosa. However, [Nishito et al., 2018](https://www.jstage.jst.go.jp/article/jnsv/64/1/64_1/_pdf) is a useful review on zinc absorption mechanisms.
 4. The delivery of a efficacious dose of zinc to oral mucosa may require the use of ionophores like pyrithione (PT).
    * Te Velthuis, A.J., van den Worm, S.H., Sims, A.C., Baric, R.S., Snijder, E.J. and van Hemert, M.J., Zn2+ inhibits coronavirus and arterivirus RNA polymerase activity in vitro and zinc ionophores block the replication of these viruses in cell culture. _PLoS Pathogens_, 6(11) e100117 (2010).
       * https://dx.doi.org/10.1371%2Fjournal.ppat.1001176
