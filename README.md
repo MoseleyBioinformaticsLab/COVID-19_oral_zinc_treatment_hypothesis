@@ -39,7 +39,7 @@
 3. Efficacy of zinc lozenges for treating common colds is supported by a meta-analysis of prior zinc lozenge studies.
      * A meta-analysis ([Hemilä, H. et al. 2017](https://doi.org/10.1177%2F2054270417694291)) has previously determined that consuming zinc lozenges with a concentration greater than 80 mg zinc / day reduces the common cold duration on average by 33%. A daily dosage up to 150 mg per day has few adverse effects. The lozenges containing zinc gluconate and zinc acetate demonstrated efficacy.
 4. SARS-CoV-2 enters cells via the ACE2 and TMPRSS2 receptors.
-    * [Hoffman M., et al., 2020](https://doi.org/10.1101/2020.01.31.929042) and [Xu X., et al., 2020](https://doi.org/10.1007/s11427-020-1637-5) have both shown this.
+    * [Hoffman M., et al., 2020](https://doi.org/10.1101/2020.01.31.929042) has shown this and [Xu X., et al., 2020](https://doi.org/10.1007/s11427-020-1637-5) has modeled the structural interaction between ACE2 and the viral spike protein.
 5. Oral mucosa expresses ACE2, a major viral receptor of SARS-CoV-2. 
     * Xu and coworkers used TCGA and FANTOM5 CAGE gene expression analysis to show this ([Xu X., et al., 2020](https://doi.org/10.1038/s41368-020-0074-x)). However, a simple search of the human protein atlas (HPA) for ACE2 expression corroborates this ([link](https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue)). In addition, HPA shows the highest expression of TMPRSS2 gene and protein expression in the gastrointestinal tract ([link](https://www.proteinatlas.org/ENSG00000184012-TMPRSS2/tissue)).
 
