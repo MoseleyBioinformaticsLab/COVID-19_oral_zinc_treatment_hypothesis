@@ -63,11 +63,7 @@
 3. It is unknown what zinc transporters are present in the oral mucosa.
    * We could not find a published peer-reviewed paper on the likely presence of specific zinc transporters in the oral mucosa. However, [Nishito et al., 2018](https://www.jstage.jst.go.jp/article/jnsv/64/1/64_1/_pdf) is a useful review on zinc absorption mechanisms.
 4. The delivery of a efficacious dose of zinc to oral mucosa may require the use of ionophores like pyrithione (PT).
-   * Te Velthuis, A.J., van den Worm, S.H., Sims, A.C., Baric, R.S., Snijder, E.J. and van Hemert, M.J., Zn2+ inhibits coronavirus and arterivirus RNA polymerase activity in vitro and zinc ionophores block the replication of these viruses in cell culture. _PLoS Pathogens_, 6(11) e100117 (2010).
-      * https://dx.doi.org/10.1371%2Fjournal.ppat.1001176
-      * This is due to the potential differences between the RNA-dependent RNA polymerases of SARS-CoV-2 and coronaviruses that cause the common cold.
-      * This likelihood is supported by the 3-fold differences in IC50 of pyrithione (i.e. 1.4 micromolar PT for SARS-CoV vs 0.5 micromolar PT for EAV).
-      * However, the therapeutic window for ionophores like pyrithione is likely to be much smaller as indicated by the CC50 of 80 micromolar for PT in Vero-E6 cells (African green monkey kidney cells).
+    * [Te Velthuis and coworkers](https://dx.doi.org/10.1371%2Fjournal.ppat.1001176) have examined the activity of zinc activity on RNA polymerase activities. There are potential differences between the RNA-dependent RNA polymerases of SARS-CoV-2 and coronaviruses that cause the common cold. The need for ionophores is supported by the 3-fold differences in IC50 of pyrithione (i.e. 1.4 micromolar PT for SARS-CoV vs 0.5 micromolar PT for EAV). However, the therapeutic window for ionophores like pyrithione is likely to be much smaller as indicated by the CC50 of 80 micromolar for PT in Vero-E6 cells (African green monkey kidney cells).
 
 ## Commenting and Revisioning <a name="revision"></a>
 * This document was purposefully put on GitHub to facilitate its fast development.
@@ -80,3 +76,4 @@
 
 ### Contributors <a name="contributors"></a>
    * Main Author: Dr. Hunter N.B. Moseley, University of Kentucky
+   * Revisions and Edits: Dr. Robert M. Flight, University of Kentucky
