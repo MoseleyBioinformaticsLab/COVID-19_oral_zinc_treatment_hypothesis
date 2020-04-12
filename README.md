@@ -1,4 +1,7 @@
 # COVID-19 Oral Zinc Treatment Hypothesis
+**<big><big>A more complete version of this hypothesis can be found in the following preprint: https://osf.io/z8wvq/</big></big>**
+
+---
 * **[Goal](#goal)**
 * **[Hypothesis](#hypothesis)**
 * **[Background](#background)**
@@ -9,7 +12,6 @@
    * **[Contributors](#contributors)**
 ---
 
-
 ## Goal <a name="goal"></a>
 **Find a treatment for COVID-19 that prevents hospitalization and/or death that can be developed and used on the timescale of the current 2020 pandemic.**
 ---
@@ -17,6 +19,7 @@
 ## Hypothesis <a name="hypothesis"></a>
 [Coronavirus Disease 2019 (COVID-19)](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) is treatable with the oral administration of zinc.
 * A possible effective method for the oral administration of zinc is via zinc-infused lozenges that can allow for slow semi-continuous release of zinc in the oral cavity.
+
 
 ## Background <a name="background"></a>
 * COVID-19 is caused by the [severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2).
